@@ -1,0 +1,10 @@
+[Y4M STREAM] Live: 26.2 FPS | HW Gain: 932 | Focus: 250 | WB: R=1.85 B=1.97
+[Y4M STREAM] Live: 26.2 FPS | HW Gain: 932 | Focus: 250 | WB: R=1.85 B=1.97
+[Y4M STREAM] Live: 26.2 FPS | HW Gain: 932 | Focus: 250 | WB: R=1.85 B=1.97
+[Y4M STREAM] Live: 26.2 FPS | HW Gain: 932 | Focus: 250 | WB: R=1.85 B=1.97
+[Y4M STREAM] Live: 26.1 FPS | HW Gain: 932 | Focus: 250 | WB: R=1.85 B=1.97
+[Y4M STREAM] Live: 26.1 FPS | HW Gain: 932 | Focus: 250 | WB: R=1.85 B=1.97
+[Y4M STREAM] Live: 26.1 FPS | HW Gain: 932 | Focus: 250 | WB: R=1.85 B=1.97
+[Y4M STREAM] Live: 26.2 FPS | HW Gain: 932 | Focus: 250 | WB: R=1.85 B=1.98
+[Y4M STREAM] Live: 26.2 FPS | HW Gain: 932 | Focus: 250 | WB: R=1.85 B=1.98
+[Y4M STREAM] Live: 26.2 FPS | HW Gain: 932 | Focus: 250 | WB: R=1.85 B=1.98

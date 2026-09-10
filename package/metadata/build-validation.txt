@@ -1,0 +1,7 @@
+make: Entering directory '/usr/src/linux-headers-5.15.147-sun60iw2'
+  CC [M]  /home/onyx/orangepi4pro-imx519-stable-20260910/build/bsp/drivers/vin/modules/sensor/imx519.o
+  MODPOST /home/onyx/orangepi4pro-imx519-stable-20260910/build/bsp/drivers/vin/modules/sensor/Module.symvers
+  CC [M]  /home/onyx/orangepi4pro-imx519-stable-20260910/build/bsp/drivers/vin/modules/sensor/imx519.mod.o
+  LD [M]  /home/onyx/orangepi4pro-imx519-stable-20260910/build/bsp/drivers/vin/modules/sensor/imx519.ko
+make: Leaving directory '/usr/src/linux-headers-5.15.147-sun60iw2'
+Built into build/. Shipped modules and binary were not replaced.
